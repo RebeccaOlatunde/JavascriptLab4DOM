@@ -1,0 +1,14 @@
+.light-bulb {
+    padding: 20px;
+    background-color: black;
+    color: white;
+    width:200px;
+    border-radius: 20px;
+
+  }
+  
+  .turn-on {
+    padding: 20px;
+    background-color: yellow;
+    color: black;
+  }
